@@ -3,7 +3,7 @@
 # Those who need complete code related to the project contact me throgh mail which is described below.
 
 # Covid-19-Face_Mask_Detection :
-Working with Covid 19 face mask detection with Tensorflow, OpenCV, Deep Learning
+Working on Covid 19 face mask detection with Tensorflow, OpenCV, Deep Learning
 
 Hi there,
 Here I am working on "COVID - 19 Face Mask Detection" using Tensorflow.
